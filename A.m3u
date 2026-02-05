@@ -721,6 +721,6 @@ http://rusradio.hostingradio.ru/rusradio96.aacp
 #EXTINF:-1 tvg-id="xit-fm" tvg-logo="https://epgx.site/p/xit-fm.png" group-title="Радио" radio="true",Хит FM
 http://hitfm.hostingradio.ru/hitfm96.aacp
 #EXTINF:-1 tvg-id="1sportper" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg/250px-1%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-5.svg.png" group-title="Спортивные" ,Первый спортивный
-https://vod.tuva.ru/nauka52/index.m3u8
+https://mobdrm.1tv.ru/hls-live3/streams/sport-1/sport-13.m3u8?cdn=https://cdn2.1internet.tv&netprav=/hls-vod2/streams/1tv/internet-not-allowed-,350,950,3800,.mp4.urlset/master.m3u8&e=1770295107&s=QxYEiG%2FNDxquN0wn%2FxjSloY0JBaU6VEtVd9DUbVt1JwUSeA5H%2Be4LZkS28Yfd2r5PEdPa0DH1al03H2hmxOvjUAaDG777z1hGFK7DEz51OSZ5CcMwG%2F37T86Itbi5dtfHk2o1ka9yAT4eNUAghfDWKaYQ4KoDTVDez0phiiiKGk%3D
 #EXTINF:-1 tvg-id="yumor-fm" tvg-logo="https://epgx.site/p/yumor-fm.png" group-title="Радио" radio="true",Юмор FM
 https://pub0301.101.ru:8443/stream/air/mp3/256/102
